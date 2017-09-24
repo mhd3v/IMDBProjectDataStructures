@@ -289,7 +289,7 @@ public class MovieAvlTree {
 	// ==================================================================
 	void insertAllData() {
 
-		String csvFile = "C:\\Users\\Mahad\\Desktop\\Project\\IMDB_Top5000.csv";
+		String csvFile = "IMDB_Top5000.csv";
 		BufferedReader br = null;
 		String line = "";
 		String cvsSplitBy = ",";
